@@ -29,7 +29,7 @@
 			</c:forEach>
 
 		</table>
-		<br> <a href="insertSample.jsp">샘플 등록</a>
+		<br> <a href="insertSample.do">샘플 등록</a>
 	</center>
 </body>
 </html>

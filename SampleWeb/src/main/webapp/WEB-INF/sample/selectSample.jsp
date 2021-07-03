@@ -44,7 +44,7 @@
 				</tr>
 			</table>
 		</form>
-		<br> <a href="insertSample.jsp">INSERT</a>&nbsp;&nbsp;&nbsp; <a
+		<br> <a href="insertSample.do">INSERT</a>&nbsp;&nbsp;&nbsp; <a
 			href="deleteSample.do?id=${sample.id}">DELETE</a>&nbsp;&nbsp;&nbsp; <a
 			href="selectSampleList.do">LIST</a>
 	</center>
